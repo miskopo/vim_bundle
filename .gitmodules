@@ -1,0 +1,60 @@
+[submodule "jedi-vim"]
+	path = jedi-vim
+	url = https://github.com/davidhalter/jedi-vim
+[submodule "neocomplete.vim"]
+	path = neocomplete.vim
+	url = https://github.com/shougo/neocomplete.vim
+[submodule "nerdtree"]
+	path = nerdtree
+	url = https://github.com/scrooloose/nerdtree
+[submodule "syntastic"]
+	path = syntastic
+	url = https://github.com/scrooloose/syntastic
+[submodule "tagbar"]
+	path = tagbar
+	url = https://github.com/majutsushi/tagbar
+[submodule "undotree"]
+	path = undotree
+	url = https://github.com/mbbill/undotree
+[submodule "vim-airline"]
+	path = vim-airline
+	url = https://github.com/bling/vim-airline
+[submodule "vim-airline-themes"]
+	path = vim-airline-themes
+	url = https://github.com/vim-airline/vim-airline-themes
+[submodule "vim-autoclose"]
+	path = vim-autoclose
+	url = https://github.com/spf13/vim-autoclose
+[submodule "vim-devicons"]
+	path = vim-devicons
+	url = https://github.com/ryanoasis/vim-devicons
+[submodule "vim-fugitive"]
+	path = vim-fugitive
+	url = https://github.com/tpope/vim-fugitive
+[submodule "vim-indent-guides"]
+	path = vim-indent-guides
+	url = https://github.com/valloric/vim-indent-guides
+[submodule "vim-markdown.git"]
+	path = vim-markdown.git
+	url = https://github.com/plasticboy/vim-markdown.git
+[submodule "vim-minimap"]
+	path = vim-minimap
+	url = https://github.com/severin-lemaignan/vim-minimap
+[submodule "vim-pasta"]
+	path = vim-pasta
+	url = https://github.com/sickill/vim-pasta
+[submodule "vimproc.vim.git"]
+	path = vimproc.vim.git
+	url = https://github.com/Shougo/vimproc.vim.git
+[submodule "vim-script-runner"]
+	path = vim-script-runner
+	url = https://github.com/ironcamel/vim-script-runner
+[submodule "vim-surround"]
+	path = vim-surround
+	url = https://github.com/tpope/vim-surround
+[submodule "vmail"]
+	path = vmail
+	url = https://github.com/danchoi/vmail
+[submodule "vim-markdown"]
+	path = vim-markdown
+	url = https://github.com/plasticboy/vim-markdown.git
